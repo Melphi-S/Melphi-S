@@ -1,4 +1,4 @@
-<img align="right" src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" width="200"/>
+<img align="right" src="https://media.tenor.com/drxH1lO9cfEAAAAi/dark-souls-bonfire.gif" width="150"/>
 <h1>Well met, mate!</h1>
 
   #### My name is Yury. I'm a frontend developer.
