@@ -1,4 +1,4 @@
-<img align="right" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" width="500"/>
+<img align="right" src="https://media.tenor.com/DTIl6DWhrZwAAAAi/moon-spacedoodles.gif" width="200"/>
 <h1>Hi, guest!</h1>
 
   #### My name is Yury. I'm a frontend developer.
