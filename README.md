@@ -2,7 +2,14 @@
 <h1>Hi, guest!</h1>
 
   #### My name is Yury. I'm a frontend developer.
-  <img src="https://komarev.com/ghpvc/?username=Melphi-S&style=flat-square&color=blue" alt=""/>
+  <a href="y.torgashin@yandex.ru">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/@atrop1ne">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=Melphi-S&style=flat-square&color=blue"/>
 
   <br clear="right"/>
   
