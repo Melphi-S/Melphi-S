@@ -50,3 +50,5 @@
   <a href="https://www.codewars.com/users/YuryT"><img style="width: 49%; height:50px" src="https://www.codewars.com/users/YuryT/badges/large"></a>
 </div>
 </details>
+
+<img src="https://www.shpab.nu/pictures/block_pictures_thumbs/13/buildings.png?v20221222083243" width="100%"/>
