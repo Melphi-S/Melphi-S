@@ -13,7 +13,7 @@
 
   <br clear="right"/>
   
-  ### :books: My stack:
+  ### My stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -25,3 +25,18 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+
+
+### My activity:
+
+<img width="98.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Melphi-S&theme=radical">
+<div style="display: flex; justify-content: space-between; width: 100%">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qtrixnet&theme=radical"> 
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qtrixnet&theme=radical"> 
+</div>
+
+#### Codewars:
+[![codewars](https://www.codewars.com/users/YuryT/badges/small)](https://www.codewars.com/users/YuryT)
+
+#### LeetCode:
+[![LeetCode user Melphi-S](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMelphi-S&logo=leetcode&logoColor=yellow)](https://leetcode.com/Melphi-S/)
