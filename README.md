@@ -1,5 +1,5 @@
-<img align="right" src="https://media.tenor.com/DTIl6DWhrZwAAAAi/moon-spacedoodles.gif" width="200"/>
-<h1>Well met, mate!</h1>
+<img align="right" src="https://media.tenor.com/DQvo_oxLdagAAAAi/running-black-cat.gif" width="200"/>
+<h1>Well met, friend!</h1>
 
   #### My name is Yury. I'm a frontend developer.
   <a href="mailto:y.torgashin@yandex.ru">
