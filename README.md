@@ -1,7 +1,7 @@
 <img align="right" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" width="500"/>
 <h1>Hi, guest!</h1>
 
-  ##### My name is Yury. I'm a frontend developer.
+  #### My name is Yury. I'm a frontend developer.
 
   <br clear="right"/>
   
