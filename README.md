@@ -31,7 +31,7 @@
 </details>
 
 <details>
-  <summary><b>My activity</b></summary>
+  <summary><b>My GitHub activity</b></summary>
   <br/>
 
 <img width="98.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Melphi-S&theme=radical">
