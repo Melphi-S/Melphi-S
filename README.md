@@ -1,4 +1,4 @@
-<img align="right" src="https://media.tenor.com/DTIl6DWhrZwAAAAi/moon-spacedoodles.gif" width="200"/>
+<img align="right" src="https://media.tenor.com/C1GHEPD-jSMAAAAi/downsign-qr-code.gif" width="200"/>
 <h1>Well met, mate!</h1>
 
   #### My name is Yury. I'm a frontend developer.
