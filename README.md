@@ -35,6 +35,6 @@
   <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qtrixnet&theme=radical"> 
 </div>
 <div style="display: flex; justify-content: space-between; width: 100%">
-  <img width="49%" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMelphi-S&logo=leetcode&logoColor=yellow"> 
-    <img width="49%" src="https://www.codewars.com/users/YuryT/badges/large"> 
+  <a href="https://leetcode.com/Melphi-S/"><img width="49%" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMelphi-S&logo=leetcode&logoColor=yellow"> </a>
+  <a href="https://www.codewars.com/users/YuryT"><img width="49%" src="https://www.codewars.com/users/YuryT/badges/large"></a>
 </div>
