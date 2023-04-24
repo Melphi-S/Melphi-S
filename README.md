@@ -42,7 +42,7 @@
 </details>
 
 <details>
-  <summary><b>LeetCode && Codewars</b></summary>
+  <summary><b>My LeetCode && Codewars stats</b></summary>
   <br/>
 
 <div style="display: flex; justify-content: space-between; width: 100%">
