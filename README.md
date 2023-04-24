@@ -1,5 +1,5 @@
 <img align="right" src="https://media.tenor.com/DTIl6DWhrZwAAAAi/moon-spacedoodles.gif" width="200"/>
-<h1>Hi, guest!</h1>
+<h1>Hey, guest!</h1>
 
   #### My name is Yury. I'm a frontend developer.
   <a href="mailto:y.torgashin@yandex.ru">
