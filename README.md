@@ -1,4 +1,4 @@
-<img align="right" src="https://media.tenor.com/VTRhozHzG2QAAAAi/uax-uax-design.gif" width="80"/>
+<img align="right" src="https://media.tenor.com/Jj1bUeLtkYMAAAAi/discord-server.gif" width="70"/>
 <h1>Well met, friend!</h1>
 
   #### My name is Yury. I'm a frontend developer.
