@@ -51,4 +51,4 @@
 </div>
 </details>
 
-<img src="https://www.ashtongatehouse.org/assets/img/footer.svg" width="100%"/>
+<img src="https://downloader.disk.yandex.ru/preview/5613bbf1610c90afb36a8495914280557737d18712d8e1a298f5db56698aaae7/6446f27e/kaMUSGantTdsjgNByt5_s7M0unXXNwI1K1pTVX3IUKZGNkw_8HxpTwmwCI3RkcYV3-H9Kuqxx5Kvw6MuxFYypA%3D%3D?uid=0&filename=pngwing.com.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048" width="100%"/>
