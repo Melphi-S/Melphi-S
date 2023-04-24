@@ -1,8 +1,9 @@
 <img align="right" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" width="500"/>
-<h1 align="left">Hi, guest!</h1>
+<h1>Hi, guest!</h1>
 
-  My name is Yury. I'm a frontend developer.   
-  #### :books: My stack:
+  My name is Yury. I'm a frontend developer.
+  <br clear="right"/>
+  ### :books: My stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
