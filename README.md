@@ -2,6 +2,7 @@
 <h1>Hi, guest!</h1>
 
   #### My name is Yury. I'm a frontend developer.
+  <img src="https://komarev.com/ghpvc/?username=Melphi-S&style=flat-square&color=blue" alt=""/>
 
   <br clear="right"/>
   
