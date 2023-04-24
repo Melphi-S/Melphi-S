@@ -51,4 +51,4 @@
 </div>
 </details>
 
-<img src="https://www.shpab.nu/pictures/block_pictures_thumbs/13/buildings.png?v20221222083243" width="100%"/>
+<img src="https://www.sketchad.co.za/_images/footer-bottom4.png" width="100%"/>
