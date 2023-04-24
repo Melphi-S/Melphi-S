@@ -51,4 +51,4 @@
 </div>
 </details>
 
-<img src="https://downloader.disk.yandex.ru/preview/26924e818e884fe754f5b0eaaa763ff86ca205ddbe03da11c201870bc897afec/6446f467/7mp0JWUnB7mSp6UREv_X9ek6xdo9j-3QKsCXCnHE7dM_aNGj-IhAmdIf3eClyF7sL2EBoNxR_-K5PmHEeJYzrA%3D%3D?uid=0&filename=pngwing.com%20%282%29.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048" width="100%"/>
+<img src="https://downloader.disk.yandex.ru/preview/1f9c180aad0a9ba6ba6abfc1e97c1e8d012b33dbe33404b7c8615647a90b766c/6446f4a8/Hmci0oBXNg-E10wjQsy9B8Juxg5tOPQV_7HrR85GngcwOCZovtgHdKtZfvjtPvBa9vXYIELL5YOx7inDYWKcIQ%3D%3D?uid=0&filename=pngwing.com%20%283%29.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048" width="100%"/>
