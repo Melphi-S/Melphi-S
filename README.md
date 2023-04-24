@@ -36,7 +36,7 @@
 </div>
 
 #### Codewars:
-[![codewars](https://www.codewars.com/users/YuryT/badges/small)](https://www.codewars.com/users/YuryT)
+[![codewars](https://www.codewars.com/users/YuryT/badges/large)](https://www.codewars.com/users/YuryT)
 
 #### LeetCode:
 [![LeetCode user Melphi-S](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMelphi-S&logo=leetcode&logoColor=yellow)](https://leetcode.com/Melphi-S/)
