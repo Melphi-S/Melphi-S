@@ -2,7 +2,7 @@
 <h1>Hi, guest!</h1>
 
   #### My name is Yury. I'm a frontend developer.
-  <a href="y.torgashin@yandex.ru">
+  <a href="mailto:y.torgashin@yandex.ru">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://t.me/atrop1ne">
