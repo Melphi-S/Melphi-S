@@ -1,4 +1,4 @@
-<img align="right" src="https://media.tenor.com/VTRhozHzG2QAAAAi/uax-uax-design.gif" width="90"/>
+<img align="right" src="https://media.tenor.com/VTRhozHzG2QAAAAi/uax-uax-design.gif" width="80"/>
 <h1>Well met, friend!</h1>
 
   #### My name is Yury. I'm a frontend developer.
