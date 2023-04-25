@@ -1,4 +1,4 @@
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2QxNmJlMjBmYWFjYjQ5YzZhZTQ5NmJiMWU1NWE0MmZlN2U1ODllMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Q2T7BXRiDFPJcPoA7Z/giphy.gif" width="120"/>
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2QxNmJlMjBmYWFjYjQ5YzZhZTQ5NmJiMWU1NWE0MmZlN2U1ODllMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Q2T7BXRiDFPJcPoA7Z/giphy.gif" width="110"/>
 <h1>Well met, friend!</h1>
 
   #### My name is Yury. I'm a frontend developer.
