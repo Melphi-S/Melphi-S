@@ -1,4 +1,4 @@
-<img align="right" src="https://media.tenor.com/MmWxWCktE-0AAAAi/hk.gif" width="40"/>
+<img align="right" src="https://media.tenor.com/obF_cRFFNjEAAAAi/club-penguin-hollow-knight.gif" width="80"/>
 <h1>Well met, friend!</h1>
 
   #### My name is Yury. I'm a frontend developer.
