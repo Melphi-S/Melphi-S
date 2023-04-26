@@ -9,10 +9,9 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=Melphi-S&style=flat-square&color=blue"/>
-
-  <br clear="right"/>
-  
+ <br clear="right"/>
+ 
+###  
 <details>
   <summary><b>My skill set</b></summary>
   <br/>
