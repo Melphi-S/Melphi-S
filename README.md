@@ -4,7 +4,7 @@
 ```javascript
 const me: IDeveloper = {
   name: 'Yury',
-  firstCode: new Date(2022, 2),
+  experienceSince: new Date(2022, 2),
   currentSkills: {
     frontend: ['TypeScript', 'JavaScript', 'React', 'Redux', 'SCSS', 'Jest', 'Cypress'],
     backend: ['Express', 'NestJS', 'MongoDB', 'PostgreSQL'],
@@ -14,7 +14,7 @@ const me: IDeveloper = {
 
 interface IDeveloper {
   name: string,
-  firstCode: Date,
+  experienceSince: Date,
   currentSkills: {[key: string]: string[]},
   skillsToLearn: number,
 }
