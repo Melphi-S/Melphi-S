@@ -6,8 +6,8 @@ const me: IDeveloper = {
   name: 'Yury',
   firstCode: new Date(2022, 2),
   currentSkills: {
-    frontend: ['typescript', 'javascript', 'react', 'redux', 'scss', 'jest', 'cypress'],
-    backend: ['express', 'nest.js', 'mongodb', 'postgresql'],
+    frontend: ['TypeScript', 'JavaScript', 'React', 'Redux', 'SCSS', 'Jest', 'Cypress'],
+    backend: ['Express', 'NestJS', 'MongoDB', 'PostgreSQL'],
   },
   skillsToLearn: Infinity,
 };
