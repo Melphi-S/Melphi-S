@@ -7,7 +7,7 @@ const me: IDeveloper = {
   experienceSince: new Date(2022, 2),
   currentSkills: {
     frontend: ['TypeScript', 'JavaScript', 'React', 'Redux', 'SCSS', 'Jest', 'Cypress', 'Webpack'],
-    backend: ['Express', 'NestJS', 'MongoDB', 'PostgreSQL'],
+    backend: ['Express', 'NestJS', 'MongoDB', 'TypeORM', 'Docker'],
   },
   skillsToLearn: Infinity,
 };
