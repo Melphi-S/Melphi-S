@@ -11,13 +11,6 @@ const me: IDeveloper = {
   },
   skillsToLearn: Infinity,
 };
-
-interface IDeveloper {
-  name: string,
-  experienceSince: Date,
-  currentSkills: {[key: string]: string[]},
-  skillsToLearn: number,
-}
 ```
 ## Contacts
   <a href="mailto:y.torgashin@yandex.ru">
