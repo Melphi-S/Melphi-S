@@ -10,7 +10,7 @@ const me: IDeveloper = {
     backend: ['Express', 'NestJS', 'MongoDB', 'TypeORM', 'Docker'],
   },
   skillsToLearn: Infinity,
-};
+}
 ```
 ## Contacts
   <a href="mailto:y.torgashin@yandex.ru">
