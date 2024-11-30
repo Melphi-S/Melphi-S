@@ -4,10 +4,10 @@
 ```javascript
 const me: IDeveloper = {
   name: 'Yury',
-  experienceSince: new Date(2022, 2),
+  experienceSince: new Date(2022, 0),
   currentSkills: {
-    frontend: ['TypeScript', 'JavaScript', 'React', 'Redux', 'RTK Query', 'SCSS', 'Jest', 'Cypress', 'Storybook' 'Vite'],
-    backend: ['Node.js', 'NestJS', 'MongoDB', 'PostgreSQL', 'TypeORM', 'Docker'],
+    frontend: ['TypeScript', 'React', 'Next.js', 'Redux', 'RTK Query', 'MobX', 'SCSS', 'Styled-components', 'Jest', 'Cypress', 'Storybook'],
+    backend: ['Node.js', 'NestJS', 'MongoDB', 'TypeORM', 'Docker'],
   },
   skillsToLearn: Infinity,
 }
